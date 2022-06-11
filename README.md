@@ -9,8 +9,7 @@
         firstName = "Petar",
         lastName = "Srzentic",
         age = 40, 
-        location = Country.Serbia(),
-        nationality = "Serbian"
+        location = Country.Serbia()
       )
 
       repeat(times = notDefined, action = {
