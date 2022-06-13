@@ -15,5 +15,6 @@
       repeat(times = notDefined, action = {
         me.learn()
         me.code()
+        me.playWithKids()
         me.sleep()
       })
